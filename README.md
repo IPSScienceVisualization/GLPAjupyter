@@ -6,7 +6,7 @@ An interactive cloud version of these notebooks is available on Azure Notebooks 
 The notebooks for this workshop are:
 * [AstroNotebook Fun](https://github.com/IPSScienceVisualization/GLPAjupyter/blob/master/AstroNotebook%20Fun.ipynb) which demos some of the properties of Jupyter notebooks.
 * [Astropy Fun](https://github.com/IPSScienceVisualization/GLPAjupyter/blob/master/Astropy%20Fun.ipynb) which gives you a quick tour of some of the Astropy functionality
-* [HR giagram](https://github.com/IPSScienceVisualization/GLPAjupyter/blob/master/HR%20Diagram.ipynb) which illustrates plotting and interaction with the Worldwide Telescope client.
+* [HR diagram](https://github.com/IPSScienceVisualization/GLPAjupyter/blob/master/HR%20Diagram.ipynb) which illustrates plotting and interaction with the Worldwide Telescope client.
 * [D2D Fisheye](https://github.com/IPSScienceVisualization/GLPAjupyter/blob/master/D2Dfisheye.ipynb) which illustrated how to pull data from a data2dome json feed.
 
 Here are some other Jupyter Notebook resources on the IPSScienceVisualization GitHub site
