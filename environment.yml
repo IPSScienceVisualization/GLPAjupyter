@@ -9,4 +9,4 @@ dependencies:
   - pywwt
   - pip
   - pip:
-    - PIL
+    - Pillow
