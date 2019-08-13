@@ -1,7 +1,7 @@
 # LIPS Data to Dome
 Resources for the 2019 LIPS.IPS Data to Dome Jupyter Notebook/Python Workshop
 
-An interactive cloud version of these notebooks are available here: ![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IPSScienceVisualization/GLPAjupyter/master)
+An interactive cloud version of these notebooks are available here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IPSScienceVisualization/GLPAjupyter/master)
 
 We'll also check out [pyWWT](https://github.com/WorldWideTelescope/pywwt-notebooks)
 
