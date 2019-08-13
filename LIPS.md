@@ -1,10 +1,12 @@
 # LIPS Data to Dome
 Resources for the 2019 LIPS.IPS Data to Dome Jupyter Notebook/Python Workshop
 
-An interactive cloud version of these notebooks are available [here:](https://mybinder.org/v2/gh/IPSScienceVisualization/GLPAjupyter/master)
+An interactive cloud version of these notebooks are available here: ![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IPSScienceVisualization/GLPAjupyter/master)
+
+We'll also check out [pyWWT](https://github.com/WorldWideTelescope/pywwt-notebooks)
 
 The notebooks for this workshop are:
-* [LIPS Inteo](https://github.com/IPSScienceVisualization/GLPAjupyter/blob/master/LIPS%20Intro.ipynb) which demos some of the properties of Jupyter notebooks. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IPSScienceVisualization/GLPAjupyter/master?filepath=https%3A%2F%2Fgithub.com%2FIPSScienceVisualization%2FGLPAjupyter%2Fblob%2Fmaster%2FLIPS%2520Intro.ipynb)
+* [LIPS Intro](https://github.com/IPSScienceVisualization/GLPAjupyter/blob/master/LIPS%20Intro.ipynb) which demos some of the properties of Jupyter notebooks.
 * [Astropy Fun](https://github.com/IPSScienceVisualization/GLPAjupyter/blob/master/Astropy%20Fun.ipynb) which gives you a quick tour of some of the Astropy functionality
 * [HR diagram](https://github.com/IPSScienceVisualization/GLPAjupyter/blob/master/HR%20Diagram.ipynb) which illustrates plotting and interaction with the Worldwide Telescope client.
 * [D2D Fisheye](https://github.com/IPSScienceVisualization/GLPAjupyter/blob/master/D2Dfisheye.ipynb) which illustrated how to pull data from a data2dome json feed.
