@@ -1,7 +1,7 @@
 # LIPS Data to Dome
 Resources for the 2019 LIPS.IPS Data to Dome Jupyter Notebook/Python Workshop
 
-An interactive cloud version of these notebooks is available on Azure Notebooks here: https://notebooks.azure.com/marksubbarao/libraries/GLPAjupyter2018 (you will need to clone this library before executing code)
+An interactive cloud version of these notebooks are available [here:](https://mybinder.org/v2/gh/IPSScienceVisualization/GLPAjupyter/master)
 
 The notebooks for this workshop are:
 * [LIPS Inter](https://github.com/IPSScienceVisualization/GLPAjupyter/blob/master/LIPS%20Intro.ipynb) which demos some of the properties of Jupyter notebooks.
